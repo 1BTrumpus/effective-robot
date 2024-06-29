@@ -1,1 +1,1 @@
-simple code
+simple code to find iterative factorials
